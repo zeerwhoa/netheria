@@ -1,0 +1,7 @@
+/dist
+*.scss
+*.css
+*.config.*s
+.eslintrc.js
+/node_modules
+/build
